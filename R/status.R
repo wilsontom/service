@@ -1,13 +1,8 @@
 #' Service Status
 #'
 #' @param service_name name of service to query
-#'
-#'
 #' @export
-#'
-#'
-#'
-#'
+
 
 status <- function(service_name)
 {
