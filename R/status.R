@@ -3,7 +3,6 @@
 #' @param service_name name of service to query
 #' @export
 
-
 status <- function(service_name)
 {
   if (as.double(difftime(Sys.time(), getOption('SERVICE_TIME'), units = 'mins')) > 5) {
