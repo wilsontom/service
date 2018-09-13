@@ -1,1 +1,2 @@
 # service
+[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) [![Build Status](https://travis-ci.org/wilsontom/service.svg?branch=master)](https://travis-ci.org/wilsontom/service) [![codecov](https://codecov.io/gh/wilsontom/service/branch/master/graph/badge.svg)](https://codecov.io/gh/wilsontom/service) ![License](https://img.shields.io/badge/license-GNU%20GPL%20v3.0-blue.svg "GNU GPL v3.0")
